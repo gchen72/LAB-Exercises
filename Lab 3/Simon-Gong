@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html> 
+    <head> 
+        <meta name = "description" content = "Gong Jun">
+        <meta name = "Keywords" content = "Gong Jun, Simon Gong">
+        <title>Gong Jun</title>
+        <link rel="stylesheet" type="text/css" href="SG.css"/>
+    </head>
+    <body>
+        <div id = "title">
+            <h1 style = "color:rgb(14, 9, 8)"><b> Gong Jun <3</b></h1>
+        </div>
+        <hr>
+        <div class = "pics">
+        <img src = "Simon1.jpeg"  alt=" Gong Jun sitting on top of the front of a car">
+        <img src = "Simon2.jpeg"  alt=" Gong Jun sitting in Hanfu">
+        <img src = "Simon3.jpeg"  alt=" Gong Jun sitting in front of a statue">
+        </div>
+        <hr>
+        <section>
+        <div class= "Basicinfo">
+        <div id = "Table-title">
+            <h2> Basic Information:</h2>
+        </div>
+        <table>
+            <tr>
+                <td><b>English Name:  </b> </td>
+                <td> Simon Gong</td>
+            </tr>
+            <tr>
+                <td><b>Nationality: </b></td>
+                <td> Chinese</td>
+            </tr>
+            <tr>
+                <td><b>Birthday: </b></td>
+                <td> Novemeber 29, 1992</td>
+            </tr>
+            <tr>
+                <td><b>Birth Place: </b></td>
+                <td> Chengdu, Sichuan, China</td>
+            </tr>
+            <tr>
+                <td><b>Occupation: </b></td>
+                <td> Actor</td>
+            </tr>
+            <tr>
+                <td> <strong>Works: </strong></td>
+                <td> Ling Rui《<a href = "https://mydramalist.com/53735-we-started-dating-from-marriage">Begin Again</a>》</td>
+            </tr>
+            <tr>
+                <td> </td>
+                <td> Wen Ke Xing《<a href = "https://en.wikipedia.org/wiki/Word_of_Honor_(TV_series)">Word Of Honor</a>》</td>
+            </tr>
+            <tr>
+                <td> </td>
+                <td> Lin Shen《<a href ="https://mydramalist.com/694367-sleeping-garden">Dream Garden</a>》</td>
+            </tr>
+        </table>
+    </div>
+        <br>
+        <div class = "fav">
+        <p> This is my favorite scene of him in《Word Of Honor》</p>
+        <div id="vid">
+        <iframe src="https://www.youtube.com/embed/SzCBk_rjgrE" title="YouTube video player" frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+        <br>
+    </section>
+    <br>
+        <hr>
+        <div class = "sub">
+        <p>Remember to <strong>Subscribe</strong> to learn more about him!! </p>
+        <p><b><u>Email:</u></b> <input type = "text"></p></div>
+        </div>
+        <br>
+        
+    </body>
+</html>
